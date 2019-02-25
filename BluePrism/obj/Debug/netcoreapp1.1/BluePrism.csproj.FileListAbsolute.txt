@@ -1,0 +1,9 @@
+h:\visual studio 2017\Projects\BluePrism\BluePrism\bin\Debug\netcoreapp1.1\BluePrism.deps.json
+h:\visual studio 2017\Projects\BluePrism\BluePrism\bin\Debug\netcoreapp1.1\BluePrism.runtimeconfig.json
+h:\visual studio 2017\Projects\BluePrism\BluePrism\bin\Debug\netcoreapp1.1\BluePrism.runtimeconfig.dev.json
+h:\visual studio 2017\Projects\BluePrism\BluePrism\bin\Debug\netcoreapp1.1\BluePrism.dll
+h:\visual studio 2017\Projects\BluePrism\BluePrism\bin\Debug\netcoreapp1.1\BluePrism.pdb
+h:\visual studio 2017\Projects\BluePrism\BluePrism\obj\Debug\netcoreapp1.1\BluePrism.csprojResolveAssemblyReference.cache
+h:\visual studio 2017\Projects\BluePrism\BluePrism\obj\Debug\netcoreapp1.1\BluePrism.AssemblyInfo.cs
+h:\visual studio 2017\Projects\BluePrism\BluePrism\obj\Debug\netcoreapp1.1\BluePrism.dll
+h:\visual studio 2017\Projects\BluePrism\BluePrism\obj\Debug\netcoreapp1.1\BluePrism.pdb

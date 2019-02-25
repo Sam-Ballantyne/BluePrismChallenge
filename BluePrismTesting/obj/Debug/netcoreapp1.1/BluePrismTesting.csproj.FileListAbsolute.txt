@@ -1,0 +1,14 @@
+H:\Visual Studio 2017\Projects\BluePrism\BluePrismTesting\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+H:\Visual Studio 2017\Projects\BluePrism\BluePrismTesting\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+H:\Visual Studio 2017\Projects\BluePrism\BluePrismTesting\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+H:\Visual Studio 2017\Projects\BluePrism\BluePrismTesting\bin\Debug\netcoreapp1.1\BluePrismTesting.deps.json
+H:\Visual Studio 2017\Projects\BluePrism\BluePrismTesting\bin\Debug\netcoreapp1.1\BluePrismTesting.runtimeconfig.json
+H:\Visual Studio 2017\Projects\BluePrism\BluePrismTesting\bin\Debug\netcoreapp1.1\BluePrismTesting.runtimeconfig.dev.json
+H:\Visual Studio 2017\Projects\BluePrism\BluePrismTesting\bin\Debug\netcoreapp1.1\BluePrismTesting.dll
+H:\Visual Studio 2017\Projects\BluePrism\BluePrismTesting\bin\Debug\netcoreapp1.1\BluePrismTesting.pdb
+H:\Visual Studio 2017\Projects\BluePrism\BluePrismTesting\bin\Debug\netcoreapp1.1\BluePrism.dll
+H:\Visual Studio 2017\Projects\BluePrism\BluePrismTesting\bin\Debug\netcoreapp1.1\BluePrism.pdb
+H:\Visual Studio 2017\Projects\BluePrism\BluePrismTesting\obj\Debug\netcoreapp1.1\BluePrismTesting.csprojResolveAssemblyReference.cache
+H:\Visual Studio 2017\Projects\BluePrism\BluePrismTesting\obj\Debug\netcoreapp1.1\BluePrismTesting.AssemblyInfo.cs
+H:\Visual Studio 2017\Projects\BluePrism\BluePrismTesting\obj\Debug\netcoreapp1.1\BluePrismTesting.dll
+H:\Visual Studio 2017\Projects\BluePrism\BluePrismTesting\obj\Debug\netcoreapp1.1\BluePrismTesting.pdb

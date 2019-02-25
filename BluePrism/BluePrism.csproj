@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="TextFiles\words-english.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="TextFiles\dictionary.txt" />
+  </ItemGroup>
+
+</Project>
